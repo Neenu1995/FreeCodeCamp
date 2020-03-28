@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Neenu Shaji",
+	
+	"description": "A project that does something awesome and helps me learn",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,6 +16,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Neenu Shaji"
+	}
+	
 }
