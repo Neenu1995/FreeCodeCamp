@@ -5,7 +5,7 @@
 	"description": "A project that does something awesome and helps me learn",
 	
 	"keywords": [ "freecodecamp", "npm", "project","lesson", "certification" ],
-	
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
