@@ -3,6 +3,9 @@
 	"author": "Neenu Shaji",
 	
 	"description": "A project that does something awesome and helps me learn",
+	
+	"keywords": [ "freecodecamp", "npm", "project","lesson", "certification" ],
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
